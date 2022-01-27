@@ -1,2 +1,2 @@
-# py-zuap
+# Py-Zuap
 My Python CheatSheet

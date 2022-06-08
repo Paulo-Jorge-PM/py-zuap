@@ -13,7 +13,7 @@ __license__ = "MIT"
 class Main:
 
 	def __init__(self):
-		pass
+		print("Hello World")
 
 if __name__ == '__main__':
 	main = Main()
